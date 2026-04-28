@@ -32,9 +32,9 @@ Image classification is a fundamental task in computer vision where an input ima
 
 ## PROGRAM
 
-### Name: Syed Mohamed Raihan M
+### Name: S V SHADHANASHREE
 
-### Register Number: 212224240167
+### Register Number: 212223230202
 
 ```python
 class CNNClassifier(nn.Module):
@@ -88,21 +88,22 @@ def train_model(model, train_loader, num_epochs=3):
 
 ## Training Loss per Epoch
 
-<img width="383" height="164" alt="image" src="https://github.com/user-attachments/assets/5e57c6a3-181e-4714-b9a5-48c6b50f0275" />
+<img width="550" height="307" alt="image" src="https://github.com/user-attachments/assets/dd74a12a-0d90-4237-935d-8fd9e70eb029" />
 
 
 ## Confusion Matrix
 
-<img width="918" height="804" alt="image" src="https://github.com/user-attachments/assets/0b52a373-b2b1-4150-839e-86f1410f2781" />
+<img width="741" height="678" alt="image" src="https://github.com/user-attachments/assets/b0ba9566-7a79-4cb2-afe9-e780b6ec1171" />
 
 
 ## Classification Report
 
-<img width="590" height="421" alt="image" src="https://github.com/user-attachments/assets/6b82dddc-e8a8-4462-88b6-d30ba6b846ee" />
+<img width="620" height="452" alt="image" src="https://github.com/user-attachments/assets/7081e28c-98ac-4b6d-9f0c-efe1d45b057f" />
+
 
 ### New Sample Data Prediction
 
-<img width="614" height="612" alt="image" src="https://github.com/user-attachments/assets/b3c4954f-df69-4cbf-81c6-9f3f14540da2" />
+<img width="544" height="620" alt="image" src="https://github.com/user-attachments/assets/8d85401a-3b0b-43b2-82bc-3f6988f20d8a" />
 
 
 ## RESULT
